@@ -1,3 +1,37 @@
+# 第一步：先用宽泛关键词测试
+人工智能
+AI
+ChatGPT
+Codex
+Gemini
+Claude
+Claude Code
+AGI
+
+# 第二步：发现误匹配后，加入必须词限定
+人工智能  
+AI
+ChatGPT
+Codex
+Gemini
+Claude
+Claude Code
+AGI
++技术
+
+# 第三步：发现干扰内容后，加入过滤词
+人工智能
+AI  
+ChatGPT
+Codex
+Gemini
+Claude
+Claude Code
+AGI
++技术
+!广告
+!培训
+
 胖东来
 于东来
 
